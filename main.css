@@ -1,0 +1,137 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* header section start here */
+
+.head-section {
+    margin-bottom: 100px;
+    width: 80%;
+    margin: 30px auto;
+}
+
+.half-section {}
+
+.flex-section {
+    display: flex;
+}
+
+.border-color {
+    border-left: 8px solid tomato;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+.tomato-color {
+    color: rgba(250, 101, 101, 0.972);
+}
+
+.paragarap {
+    text-align: justify;
+    padding-left: 5px;
+    margin-bottom: 15px;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.half-section img {
+    width: 80%
+}
+
+.head-tag {
+    font-size: 40px;
+}
+
+
+/* header section end here */
+
+
+/* mission section start here */
+
+.center {
+    text-align: center;
+}
+
+.grary-color {
+    background-color: rgba(245, 173, 245, 0.842);
+}
+
+.violate-color {
+    background-color: rgba(233, 31, 233, 0.5);
+}
+
+.salmon-color {
+    background-color: rgba(250, 128, 114, 0.63);
+}
+
+.mission-part {
+    width: 40%;
+    margin: 8px;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.mission-part img {
+    width: 30%;
+}
+
+
+/* mission section end here  */
+
+
+/* coding section start here */
+
+.coding-section {}
+
+.coding-section img {
+    width: 60%;
+}
+
+.coding-bg-img {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+}
+
+
+/* coding section end here */
+
+
+/* projects section start here */
+
+.projects-img img {
+    width: 70%;
+    padding-left: 30px;
+}
+
+
+/* projects section end here */
+
+
+/* footer section start here */
+
+.footer-area {
+    background-color: black;
+}
+
+.footer-area h1 {
+    color: white;
+}
+
+.foot {
+    font-family: 'Lobster', cursive;
+}
+
+.para {
+    color: white;
+}
+
+
+/* footer section end here */
